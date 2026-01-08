@@ -1,3 +1,7 @@
+> This repository is a fork of a team course project for DSC 291.  
+> Team members: @Varun, @Rita, @Devanshi, @Derrick  
+> Demo:  <https://drive.google.com/drive/folders/17bsFniKkR8J3xgNIs3VTr9Mzvsd0pLyn>
+
 # ZENITH: Zero-shot Exploration and Navigation in Intelligent Textual Horizons
 
 ## Overview
